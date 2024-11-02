@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ecoxuefe.github.io/NWc/sitemap_index.txt
+Sitemap: https://ecoxuefe.github.io/aLS/sitemap_index.txt
+Sitemap: https://ecoxuefe.github.io/fPC/sitemap_index.txt
+Sitemap: https://ecoxuefe.github.io/gcR/sitemap_index.txt
